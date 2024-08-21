@@ -1,0 +1,17 @@
+p {
+    background-color: lightpink;
+    font-family: "Verdana", "Dejavu Sans", serif-sans;
+}
+#ident {
+    color: blue;
+    font-size: 36px;
+    
+}
+.cl.odin {
+    font-size: 24px;
+}
+#ident2 {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
